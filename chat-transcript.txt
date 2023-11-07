@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------
+   Prompt one at a time
+--------------------------------------------------------------------------
+
+what is my cat's name
+
+
+List the employee names and their jobs at the demo.com and who is the top person
+
+how would you describe demo.com's revenue performance, YOY
+
+what is demo.com's latest revenue
+
+Write a one parapgrah email body for each employee on the list. The tone and messaging must be fitting for the employee's title or position in the company. If employee is the President, emphasize the need to beat demo.com revenue in 2023 (mention the dollar amount fron 2022 financials). If employee is not leadership, just congratulate them for job well done.
+
+
+--------------------------------------------------------------------------
+   Terminal chat outputs
+--------------------------------------------------------------------------
+
+Prompt: what is my cat's name
+Your cat's name is Muffy.
+Prompt: List the employee names and their jobs at the demo.com
+Sure, here are the employee names and their respective jobs:
+
+1. Steven King - President
+2. Neena Kochhar - Vice President
+3. Lex De Haan - Vice President
+4. Alexander Hunold - IT_PROG
+5. Bruce Ernst - IT_PROG
+6. David Austin - IT_PROG
+7. Valli Pataballa - IT_PROG
+8. Diana Lorentz - IT_PROG
+Prompt: how would you describe demo.com's revenue performance, YOY
+The year-on-year revenue performance of demo.com shows a steady increase. In 2019, the total revenue was 24,578,000. This increased to 31,536,000 in 2020, and then further increased to 53,823,000 in 2021. The most significant rise was seen in 2022, where the revenue reached 81,462,000. Therefore, demo.com has been experiencing consistent growth in revenue year after year.
+Prompt: what is demo.com's latest revenue
+The latest revenue of demo.com is 81,462,000.
+Prompt: Write a one parapgrah email body for each employee on the list. The tone and messaging must be fitting for the employee's title or position in the company. If employee is the President, emphasize the need to beat demo.com revenue in 2023 (mention the dollar amount fron 2022 financials). If employee is not leadership, just congratulate them for job well done.
+Certainly, I can help you draft the emails accordingly.
+
+1. To: SKING@demo.com
+Subject: 2023 Financial Goals
+Dear President Steven King,
+I hope this message finds you well. I would like to commend you on your leadership and dedication in the past year. As we approach the new year, we are faced with the exciting challenge of surpassing our 2022 financials of 81,462,000. Your guidance and strategic direction will be crucial in achieving this goal. We look forward to another successful year under your leadership.
+
+2. To: NKOCHHAR@demo.com, LDEHAAN@demo.com
+Subject: Continued Leadership Excellence
+Dear Vice Presidents Neena Kochhar and Lex De Haan,
+I would like to take this opportunity to express my gratitude for your exemplary leadership. Your dedication to our team has been instrumental in our success. We look forward to another year of accomplishments under your guidance.
+
+3. To: AHUNOLD@demo.com, BERNST@demo.com, DAUSTIN@demo.com, VPATABAL@demo.com, DLORENTZ@demo.com
+Subject: Outstanding Performance
+Dear IT_PROG Team Alexander Hunold, Bruce Ernst, David Austin, Valli Pataballa, and Diana Lorentz,
+I want to extend my sincere congratulations on your excellent work over the past year. Your dedication and commitment to your roles have contributed significantly to our company's success. Keep up the good work and looking forward to more of your remarkable performances in the coming year.
+Prompt:  

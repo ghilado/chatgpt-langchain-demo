@@ -1,0 +1,22 @@
+demo.com Financials
+
+Period Ending,12/31/2022,12/31/2021,12/31/2020,12/31/2019
+Total Revenue,81462000,53823000,31536000,24578000
+Cost of Revenue,60609000,40217000,24906000,20509000
+Gross Profit,20853000,13060000,6630000,4069000
+Operating Expenses,,,,
+Research and Development,3075000,2593000,1491000,1343000
+Sales - General and Admin.,3946000,4517000,3145000,2646000
+Non-Recurring Items,176000,-27000,--,149000
+Other Operating Items,--,--,--,--
+Operating Income,13656000,6523000,1994000,-69000
+Add'l income/expense items,254000,191000,-92000,89000
+Earnings Before Interest and Tax,31910000,6714000,1902000,82000
+Interest Expense,191000,371000,748000,665000
+Earnings Before Tax,13179000,6343000,-1548000,-565000
+Income Tax,1132000,699000,292000,110000
+Minority Interest,--,--,--,--
+Equity Earnings/Loss Unconsolidated Subsidiary,-31000,-125000,-141000,-87000
+Net Income-Cont. Operations,12556000,5519000,721000,-862000
+Net Income,12556000,5519000,721000,-862000
+Net Income Applicable to Common Shareholders,12556000,5519000,721000,-862000
